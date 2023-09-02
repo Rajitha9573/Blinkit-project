@@ -1,8 +1,4 @@
- .nav-bar{
-} 
-.location{
-
-}
+ 
 .location>h5{
     color: rgb(0, 0, 0);
     font-weight: 800;
@@ -53,4 +49,25 @@
     color: rgb(255, 255, 255);
     font-family: Okra-Bold;
     
+}
+.image{
+    width:100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.image>img{
+    width:85%;
+}
+ .cards{
+    margin:auto;
+    width:85%;
+   overflow-x: scroll;
+} 
+.my-list{
+    white-space: nowrap;
+ 
+}
+.my-list>img{
+    padding-inline:10px;
 }
