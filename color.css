@@ -1,0 +1,56 @@
+ .nav-bar{
+} 
+.location{
+
+}
+.location>h5{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+.location>p{
+    margin:0px;
+    font-size:13px;
+    font-weight:400px;
+
+}
+.vertical-line{
+    height:55px;
+    border-left: 2px solid #f2f2f2;
+
+}
+.search{
+    padding:0px 12px;
+    border: 1px solid rgb(232, 232, 232);
+    width:40vw;
+    height:40px;
+    background:rgb(248,248,2448);
+    border-radius: 12px;
+}
+.search>input{
+    border:none;
+    background-color: transparent;
+}
+.login{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(54, 54, 54);
+    font-family: Okra-Regular;
+    border:none;
+    background-color: transparent;
+}
+.my-cart{
+    background-color: rgb(12, 131, 31);
+    border-radius: 8px;
+    height: 52px;
+    width: 112px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border:none;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-family: Okra-Bold;
+    
+}
