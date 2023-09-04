@@ -71,3 +71,32 @@
 .my-list>img{
     padding-inline:10px;
 }
+.paan-corner{
+    width:85%;
+    margin:auto;
+    flex-wrap: wrap;
+    
+}
+.eggs{
+    width: 85%;
+    margin:auto;
+    display:flex;
+    justify-content: space-between;
+}
+.see-all{
+    font-size: 20px;
+    text-decoration: none;
+    color:green;
+}
+.card-2{
+    margin:auto;
+    width:85%;
+   overflow-x: scroll;
+    
+    
+}
+.my-cards{
+    white-space: nowrap;
+    background-color: aqua;
+}
+
